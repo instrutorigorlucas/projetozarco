@@ -1,10 +1,3 @@
-/*
-  CONFIGURAÇÃO:
-  1. Troque WHATSAPP_NUMBER pelo número da empresa, com código do país e DDD,
-     somente números. Exemplo: 5531999999999.
-  2. Para enviar as dúvidas à planilha Google, publique o Apps Script incluído
-     em Code.gs como Aplicativo da Web e cole a URL em GOOGLE_SCRIPT_URL.
-*/
 const WHATSAPP_NUMBER = "5537998090025"; // ALTERAR para o WhatsApp real da Zarco
 const GOOGLE_SCRIPT_URL = ""; // COLE A URL /exec do Apps Script publicado
 
